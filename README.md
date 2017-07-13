@@ -1,4 +1,4 @@
-# tahttawi-test<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -163,4 +163,4 @@
       $(".contentContainer").css("min-height",$(window).height());
     </script>
   </body>
-</html>
+</html># tahttawi-test
